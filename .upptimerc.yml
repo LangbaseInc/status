@@ -1,11 +1,11 @@
 owner: LangbaseInc
-repo: langbase-status
+repo: status
 sites:
   - name: Langbase API
     url: https://api.langbase.com
 status-website:
   # cname: demo.upptime.js.org
-  baseUrl: /langbase-status
+  baseUrl: /status
   logoUrl: https://avatars.githubusercontent.com/u/151507869?s=88&v=4
   name: Langbase
   navbar:

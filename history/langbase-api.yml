@@ -1,7 +1,7 @@
-url: https://api.langbase.com
+url: https://api.langbase.com/health
 status: up
 code: 200
-responseTime: 1519
-lastUpdated: 2024-10-23T19:55:15.869Z
+responseTime: 762
+lastUpdated: 2024-10-23T20:55:02.887Z
 startTime: 2024-10-23T18:16:16.775Z
 generator: Upptime <https://github.com/upptime/upptime>

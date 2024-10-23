@@ -15,3 +15,5 @@ status-website:
       href: /
     - title: Subscribe on GitHub
       href: https://github.com/$OWNER/$REPO
+i18n:
+  footer: ''

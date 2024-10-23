@@ -1,7 +1,7 @@
 [
   {
     "name": "Langbase API",
-    "url": "https://api.langbase.com",
+    "url": "https://api.langbase.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.langbase.com.ico",
     "slug": "langbase-api",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1123,
-    "timeDay": 1123,
-    "timeWeek": 1123,
-    "timeMonth": 1123,
-    "timeYear": 1123,
+    "time": 1078,
+    "timeDay": 1078,
+    "timeWeek": 1078,
+    "timeMonth": 1078,
+    "timeYear": 1078,
     "dailyMinutesDown": {}
   }
 ]

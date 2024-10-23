@@ -2,7 +2,7 @@ owner: LangbaseInc
 repo: status
 sites:
   - name: Langbase API
-    url: https://api.langbase.com
+    url: https://api.langbase.com/health
 status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status

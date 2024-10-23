@@ -6,8 +6,8 @@ sites:
 status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/LangbaseInc/docs-images/refs/heads/main/langbase/design/langbase.com.png
-  name: Langbase
+  logoUrl: https://raw.githubusercontent.com/LangbaseInc/docs-images/refs/heads/main/design/logo/logo-symbol.svg
+  name: Langbase Status
   navbar:
     - title: Langbase
       href: https://langbase.com

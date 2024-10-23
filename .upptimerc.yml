@@ -6,12 +6,12 @@ sites:
 status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://avatars.githubusercontent.com/u/151507869?s=88&v=4
+  logoUrl: https://raw.githubusercontent.com/LangbaseInc/docs-images/refs/heads/main/langbase/design/langbase.com.png
   name: Langbase
   navbar:
     - title: Langbase
       href: https://langbase.com
     - title: Status
       href: /
-    - title: GitHub
+    - title: Subscribe on GitHub
       href: https://github.com/$OWNER/$REPO

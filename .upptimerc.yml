@@ -12,7 +12,7 @@ status-website:
     - title: Langbase
       href: https://langbase.com
     - title: Status
-      href: /
+      href: /status
     - title: Subscribe on GitHub
       href: https://github.com/$OWNER/$REPO/issues
 i18n:

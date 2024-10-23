@@ -4,15 +4,14 @@ sites:
   - name: Langbase API
     url: https://api.langbase.com/health
 status-website:
-  # cname: demo.upptime.js.org
-  baseUrl: /status
+  cname: status.langbase.com
   logoUrl: https://raw.githubusercontent.com/LangbaseInc/docs-images/refs/heads/main/design/logo/logo-symbol.svg
   name: Langbase Status
   navbar:
     - title: Langbase
       href: https://langbase.com
     - title: Status
-      href: /status
+      href: /
     - title: Subscribe on GitHub
       href: https://github.com/$OWNER/$REPO/issues
 i18n:

@@ -20,4 +20,4 @@ We use [Issues](https://github.com/LangbaseInc/langbase-status/issues) as incide
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://LangbaseInc.github.io/langbase-status)
+[**Visit our status website →**](https://status.langbase.com/)

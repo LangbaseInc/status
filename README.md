@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.langbase.com/): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.langbase.com/): <!--live status--> **🔴 Experiencing wide spread upstream outage**
 
 This repository contains the open-source uptime monitor and status page for [Langbase](https://langbase.com).
 

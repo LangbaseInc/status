@@ -14,5 +14,7 @@ status-website:
       href: /
     - title: Subscribe on GitHub
       href: https://github.com/$OWNER/$REPO/issues
+status-page:
+  faviconSvg: https://raw.githubusercontent.com/langbaseinc/status/master/assets/favicon.svg
 i18n:
   footer: ''

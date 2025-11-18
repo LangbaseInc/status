@@ -1,7 +1,7 @@
 url: https://api.langbase.com/health
-status: down
-code: 500
-responseTime: 147
-lastUpdated: 2025-11-18T11:41:44.083Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2025-11-18T13:00:03.864Z
 startTime: 2024-10-23T18:16:16.775Z
 generator: Upptime <https://github.com/upptime/upptime>

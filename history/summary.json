@@ -6,14 +6,14 @@
     "slug": "langbase-api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "88.02%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.29%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
     "time": 918,
-    "timeDay": 353,
-    "timeWeek": 1024,
-    "timeMonth": 962,
+    "timeDay": 991,
+    "timeWeek": 1035,
+    "timeMonth": 976,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2025-11-18": 172
